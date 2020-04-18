@@ -108,7 +108,7 @@
     <string name="txt_new_register">Create new account</string>
     <string name="or">OR</string>
     <string name="txt_login">Sign in</string>
-    <string name="txt_password">Password</string>
+    <string name="txt_password">Password!!!!!!</string>
     <string name="txt_email">Email</string>
     <string name="err_msg_password">Enter Valid Password</string>
     <string name="err_msg_email">Enter Valid Email_id</string>
